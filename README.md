@@ -1,5 +1,6 @@
 # GoogleCustomSearchIMG
 
+
 As the old google image search api is no longer be available, google custom search api with image search is used in this project instead.
 
 There are only 100 search limits every day. If exceeds the limits, replace the google custom search api key and google search engine id in the request url part.
@@ -15,3 +16,5 @@ Automatic refreshing: When user is typing the keywords, the search result is upd
 
 
 The preview.gif is the preview video of this project 
+
+![alt tag](https://github.com/lxyjscz/GoogleCustomSearchIMG/blob/master/preview.gif)
